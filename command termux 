@@ -1,0 +1,15 @@
+ pkg update
+$ pkg upgrade
+$ pkg install nodejs
+$ pkg install nodejs-lts
+$ pkg install bash
+$ pkg install git
+$ pkg install mc
+$ pkg install imagemagick
+$ pkg install ffmpeg
+$ termux-setup-storage
+$ apt update && apt upgrade
+$ cd /sdcard
+$ cd NextBotz v6 (NextBotz v6 ganti sama nama folder sc mu)
+$ npm start
+DONE 🙏🏻
